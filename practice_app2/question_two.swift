@@ -38,7 +38,7 @@ struct question_two: View {
                 Button("Cake") {
                     response = "🍰"
                 }
-                .tint(.orange)
+                .tint(.purple)
                 .buttonStyle(.borderedProminent)
                 
                 
